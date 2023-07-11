@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soumyadip4119
-- 👀 I’m interested in coding, web development.
+- 👀 I’m interested in machine learning, web development, data analysis and embedded systems.
 - 🌱 I’m currently learning Electronics and Communication Engineering at National Institute of Technology, Agartala.
 - 💞️ I’m looking to collaborate on software and web development projects
 - 📫 Email- soumyadipdas4119@gmail.com
